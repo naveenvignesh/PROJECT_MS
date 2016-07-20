@@ -1,0 +1,11 @@
+/home/bo/boop3386/Documents/MS_PROJECT/rtl/AXI_interface.sv
+/home/bo/boop3386/Documents/MS_PROJECT/rtl/AXI_slave.sv
+/home/bo/boop3386/Documents/MS_PROJECT/rtl/dma_controller_tx.sv
+/home/bo/boop3386/Documents/MS_PROJECT/rtl/dma_fifo.sv
+/home/bo/boop3386/Documents/MS_PROJECT/rtl/eth_core.sv
+/home/bo/boop3386/Documents/MS_PROJECT/rtl/eth_tx.sv
+/home/bo/boop3386/Documents/MS_PROJECT/rtl/rtl_struct.sv
+/home/bo/boop3386/Documents/MS_PROJECT/tb/axi_master_model.sv
+/home/bo/boop3386/Documents/MS_PROJECT/tb/ethernet_frame_pkg.sv
+/home/bo/boop3386/Documents/MS_PROJECT/tb/ethernet_tb.sv
+/home/bo/boop3386/Documents/MS_PROJECT/tb/files.sv

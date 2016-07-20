@@ -1,0 +1,120 @@
+0 
+34
++cli+4
++itf+/apps/synopsys/VCSMX_NEW/linux/lib/vcsd.tab
++memcbk
++systemverilogext+.sv
++vcsd
++vpi
++vpi
+-Mamsrun=
+-Masflags=--32
+-Mcc=gcc
+-Mcfl= -pipe -m32 -fPIC -O -I/apps/synopsys/VCSMX_NEW/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mldflags=-m32 -m32
+-Mobjects= /apps/synopsys/VCSMX_NEW/linux/lib/libvirsim.so /apps/synopsys/VCSMX_NEW/linux/lib/librterrorinf.so /apps/synopsys/VCSMX_NEW/linux/lib/libsnpsmalloc.so
+-Mout=simv
+-Msaverestoreobj=/apps/synopsys/VCSMX_NEW/linux/lib/vcs_save_restore_new.o
+-Msyslibs=/apps/synopsys/VCSMX_NEW/linux/lib/ctype-stubs_32.a -ldl -lm
+-Mvcsaceobjs=
+-Xcbug=0x1
+-debug=4
+-debug_all
+-debug_obj
+-gen_obj
+-line
+-ntb_opts
+-picarchive
+-sverilog
+/apps/synopsys/VCSMX_NEW/linux/bin/vcs1
+dtm
+rtl_struct.sv
+sram_mem.sv
+72
+sysc_uni_pwd=/home/bo/boop3386/Documents/MS_PROJECT/rtl
+cdk_dir=/apps/cadence/IC50/tools/dfII/local
+XDG_SESSION_ID=3980
+XDG_RUNTIME_DIR=/run/user/92009
+XDG_MENU_PREFIX=xfce-
+XDG_DATA_DIRS=/usr/local/share:/usr/share
+XDG_CURRENT_DESKTOP=XFCE
+XDG_CONFIG_DIRS=/etc/xdg
+VNCDESKTOP=eecad45.engr.sjsu.edu:55 (boop3386)
+VMR_MODE_FLAG=32
+VENDOR=unknown
+VCS_MX_HOME_INTERNAL=1
+VCS_HOME=/apps/synopsys/VCSMX_NEW
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux
+VCS_AMD_PURE32=1
+VCSMX_HOME=/apps/synopsys/VCSMX_NEW
+USE_NCSU_CDK=
+UNAME=/bin/uname
+TOOL_HOME=/apps/synopsys/VCSMX_NEW/linux
+TK_LIBRARY=/apps/synopsys/VCSMX_NEW/etc/auxx/tcllib/tk8.4/library
+SYNOPSYS_SIM=/apps/synopsys/2000.12
+SYNOPSYS=/apps/synopsys
+STROOT=/apps/synopsys/TCAD
+STRELEASE=current
+STDB=/home/bo/boop3386/sentaurus
+SSH_TTY=/dev/pts/0
+SSH_CONNECTION=10.250.228.5 43336 130.65.179.185 22
+SSH_CLIENT=10.250.228.5 43336 22
+SSH_AUTH_SOCK=/tmp/ssh-NYveE2h4B5AJ/agent.6721
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SSH_AGENT_PID=6722
+SNPSLMS_LICENSE_FILE=27000@innersanctum.engr.sjsu.edu:/apps/synopsys/license/current-license-key
+SKIP_CDS_DIALOG=
+SFLM_SERVER=innersanctum
+SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/6710,unix/unix:/tmp/.ICE-unix/6710
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+REMOTEHOST=10.250.228.5
+PRIMETIME_ROOT=/apps/synopsys/pt2000.11
+OVA_UUM=0
+OSTYPE=linux
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+KDEDIRS=/usr
+IUS=/apps/cadence/INCISIV141
+ISEROOT=/apps/synopsys/TCAD/
+IC=/apps/cadence/IC50
+HSP_HOME=/apps/synopsys/HSPICE/hspice
+HOSTTYPE=x86_64-linux
+GROUP=Users
+GLADE_PIXMAP_PATH=:/usr/share/glade3/pixmaps
+GLADE_MODULE_PATH=:/usr/lib64/glade3/modules
+GLADE_CATALOG_PATH=:/usr/share/glade3/catalogs
+DESKTOP_SESSION=xfce
+DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-BBrakftnhk,guid=24ec1358b047f9c4459d89ab5761d034
+CVS_RSH=ssh
+COLORTERM=xfce4-terminal
+CLS_CSD_COMPATIBILITY_LOCKING=NO
+CLS_CDSD_COMPATIBILITY_LOCKING=NO
+CDS_VHDL=/apps/cadence/INCISIV141/tools/leapfrog
+CDS_SITE=/apps/cadence/IC50/tools/dfII/local
+CDS_Netlisting_Mode=Analog
+CDS_LIC_FILE=5280@innersanctum:/apps/cadence/license-current
+CDSLMD_LICENSE_FILE=5280@innersanctum:/apps/cadence/license-current
+CDS=/apps/cadence
+CCACHE_HASHDIR=
+ARCH=linux
+0
+3
+1466033102 sram_mem.sv
+1466033227 rtl_struct.sv
+1410372708 /apps/synopsys/VCSMX_NEW/linux/lib/vcsd.tab
+4
+0 
+1410372690 /apps/synopsys/VCSMX_NEW/linux/lib/libvirsim.so
+1410372633 /apps/synopsys/VCSMX_NEW/linux/lib/librterrorinf.so
+1410372654 /apps/synopsys/VCSMX_NEW/linux/lib/libsnpsmalloc.so
+1466033346 simv.daidir
